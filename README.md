@@ -33,11 +33,15 @@ ls
 ```
 ## 7 
 -show all hidden file 
+
 ```
 ls -a 
 ```
+
 - show all file in directory
-``` ls -l
+
+```
+ ls -l
 ```
 ## 8  Transfer file 
 - transfer file from one folder to another 
@@ -61,7 +65,8 @@ cat "file name"
 ```
 wc "file name"
 ```
-## 11 Editors are:-
+## 11 Editors are 
+
 ``` nano and vi 
 ```
 - these are editors
