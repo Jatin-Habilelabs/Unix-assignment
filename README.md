@@ -67,7 +67,8 @@ wc "file name"
 ```
 ## 11 Editors are 
 
-``` nano and vi 
+``` 
+nano and vi 
 ```
 - these are editors
 
