@@ -1,6 +1,6 @@
 # All commands to use colne your github easily 
 
-- In this you can easily learn to to use command line for your system.
+- In this you can easily learn how to clone your repo using terminal
 
 ## 1  open terminal 
 ```
